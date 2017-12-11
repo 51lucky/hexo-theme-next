@@ -215,7 +215,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: false
+  updated_at: true
   categories: true
 
 # Post wordcount display settings
@@ -697,8 +697,8 @@ pace: true
 #pace-theme-mac-osx
 #pace-theme-minimal
 # For example
-pace_theme: pace-theme-center-simple
-#pace_theme: pace-theme-minimal
+#pace_theme: pace-theme-center-simple
+pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: false
