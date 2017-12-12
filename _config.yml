@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "Hexo, NexT, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -40,7 +40,7 @@ footer:
   since: 2017
 
   # Icon between year and copyright info.
-  icon: user
+  icon: heart
 
   # If not defined, will be used `author` from Hexo main config.
   copyright:
@@ -200,7 +200,7 @@ sidebar:
 scroll_to_more: false
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: true
+save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -209,7 +209,7 @@ excerpt_description: true
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
   enable: true
-  length: 200
+  length: 150
 
 # Post meta display settings
 post_meta:
@@ -324,7 +324,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: 
     size:
 
 
