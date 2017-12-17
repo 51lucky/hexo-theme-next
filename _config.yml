@@ -736,37 +736,37 @@ vendors:
   #_internal: vendors
 
   # Internal version: 2.1.3
-  jquery: https://ajax.cat.net/ajax/libs/jquery/3.2.1/jquery.min.js
-
+  jquery: 
+  
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
-  fancybox: https://cdnjs.cat.net/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js
-  fancybox_css: https://cdnjs.cat.net/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css
+  fancybox: 
+  fancybox_css: 
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
-  fastclick: https://cdnjs.cat.net/ajax/libs/fastclick/1.0.6/fastclick.min.js
+  fastclick: 
 
   # Internal version: 1.9.7
   # See: https://github.com/tuupola/jquery_lazyload
-  lazyload: https://cdnjs.cat.net/ajax/libs/lazyload/2.0.3/lazyload-min.js
+  lazyload: 
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity: https://cdnjs.cat.net/ajax/libs/velocity/1.5.0/velocity.min.js
+  velocity: 
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity_ui: https://cdnjs.cat.net/ajax/libs/velocity/1.5.0/velocity.ui.min.js
+  velocity_ui: 
 
   # Internal version: 0.7.9
   # See: https://faisalman.github.io/ua-parser-js/
-  ua_parser: https://cdnjs.cat.net/ajax/libs/UAParser.js/0.7.9/ua-parser.min.js
+  ua_parser: 
 
   # Internal version: 4.6.2
   # See: http://fontawesome.io/
-  fontawesome: https://cdnjs.cat.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
-
+  fontawesome: 
+  
   # Internal version: 1
   # https://www.algolia.com
   algolia_instant_js:
@@ -782,7 +782,7 @@ vendors:
 
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
-  canvas_nest: https://cdnjs.cat.net/ajax/libs/canvas-nest.js/1.0.1/canvas-nest.min.js
+  canvas_nest: 
 
   # three
   three:
@@ -805,7 +805,7 @@ vendors:
 
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
-  han: https://cdnjs.cat.net/ajax/libs/Han/3.3.0/han.min.css
+  han: 
 
   # needMoreShare2
   # https://github.com/revir/need-more-share2
