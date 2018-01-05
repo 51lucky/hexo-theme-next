@@ -22,7 +22,7 @@
 </div>
 
 <div>
-<a href="http://www.miitbeian.gov.cn/">豫ICP备18000499号</a>
+<a href="http://www.miitbeian.gov.cn/">豫ICP备18000499号-1</a>
 </div>
 
 {% if theme.footer.powered %}
