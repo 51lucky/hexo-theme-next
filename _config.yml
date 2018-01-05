@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT, Blog"
+keywords: ""
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -362,9 +362,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cytoTyLKy
+  appkey: 691dcb3942e1fc9c7979ebf2b6c45e22
 
 
 # Valine.
@@ -388,7 +388,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMjI5OC84ODU5
+# livere_uid: MTAyMC8zMjI5OC84ODU5
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -458,7 +458,7 @@ needmoreshare2:
 #google_site_verification:
 
 # Google Analytics
-google_analytics: UA-94086924-1
+# google_analytics: UA-94086924-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
@@ -736,37 +736,37 @@ vendors:
   #_internal: vendors
 
   # Internal version: 2.1.3
-  jquery: 
-  
+  jquery:
+
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
-  fancybox: 
-  fancybox_css: 
+  fancybox:
+  fancybox_css:
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
-  fastclick: 
+  fastclick:
 
   # Internal version: 1.9.7
   # See: https://github.com/tuupola/jquery_lazyload
-  lazyload: 
+  lazyload:
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity: 
+  velocity:
 
   # Internal version: 1.2.1
   # See: http://VelocityJS.org
-  velocity_ui: 
+  velocity_ui:
 
   # Internal version: 0.7.9
   # See: https://faisalman.github.io/ua-parser-js/
-  ua_parser: 
+  ua_parser:
 
   # Internal version: 4.6.2
   # See: http://fontawesome.io/
-  fontawesome: 
-  
+  fontawesome:
+
   # Internal version: 1
   # https://www.algolia.com
   algolia_instant_js:
@@ -782,7 +782,7 @@ vendors:
 
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
-  canvas_nest: 
+  canvas_nest:
 
   # three
   three:
@@ -805,7 +805,7 @@ vendors:
 
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
-  han: 
+  han:
 
   # needMoreShare2
   # https://github.com/revir/need-more-share2
